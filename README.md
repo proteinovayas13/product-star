@@ -1,3 +1,3 @@
 # product-star
-git Examples
+git Example UPDATED
 Updated 1!
